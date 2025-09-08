@@ -3,7 +3,7 @@
 
 Jewellery Management System is designed for better interaction between Management, Staff and Members. Jewellery Mgmt System handles all the requirements for easy Jewellery Management. Jewellery POS has following core modules such Employee Details, Supplier/ Category, Backup DB, Restore DB, Daily Expense, Collect Payment, Payment Account Setup, Return, Exchange, Member Detail, Service Request, Work Order, Service Delivery and Reports. This software will help the Jewellery Center to structuralize the activities and maintain data transparency where needed and properly store data for regular operations and future analysis. Features of Jewellery Management are:
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/06/jewellerypos-15.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738545595_59080a414e0ef2c60ab4.webp">
 
 <b>Jewellery POS Software has the following key features:</b>
 
@@ -52,5 +52,15 @@ Jewellery Management System is designed for better interaction between Managemen
 <li>Service Report</li>
 <li>LayBy Payment Report</li>
 </ul>
-<b>More details and donwload link:</b><br>
-<b>https://www.aspscriptsonline.com/product/jewellery-shop-software/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/jewellery-shop-management-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
